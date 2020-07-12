@@ -30,7 +30,6 @@
     "src"
   ],
   "exclude": [
-    "public",
-    "public/src"
+    "src/public"
   ]
 }
